@@ -1,0 +1,451 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A nevv lachrymentall and funerall elegy: or, a distillation of Great Brittaine's teares, shed for the vnexpected and sudden death of the tresvertuous and most glorious Prince Lodovvicke, Duke of Richmond and Lenox Who departed this transitory life, at his chamber in White-Hall, on Munday morning, being the 16. day of February 1624. being the same day appointed and intended by him to haue attended and gone with our soueraigne lord, King Iames; Prince Charles his Highnesse, and other the nobilitie, in robes of scarlet, to the honourable House of Parliament, which by reason of his death, was then put off till the 19. day of February following.</title>
+            <author>Tailboys, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1624</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73293</idno>
+            <idno type="STC">STC 23657</idno>
+            <idno type="STC">ESTC S124894</idno>
+            <idno type="EEBO-CITATION">99898687</idno>
+            <idno type="PROQUEST">99898687</idno>
+            <idno type="VID">152124</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73293)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152124)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2017:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A nevv lachrymentall and funerall elegy: or, a distillation of Great Brittaine's teares, shed for the vnexpected and sudden death of the tresvertuous and most glorious Prince Lodovvicke, Duke of Richmond and Lenox Who departed this transitory life, at his chamber in White-Hall, on Munday morning, being the 16. day of February 1624. being the same day appointed and intended by him to haue attended and gone with our soueraigne lord, King Iames; Prince Charles his Highnesse, and other the nobilitie, in robes of scarlet, to the honourable House of Parliament, which by reason of his death, was then put off till the 19. day of February following.</title>
+                  <author>Tailboys, Samuel.</author>
+               </titleStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>by B. Alsop, dwelling at the signe of the Dolphin in Distaffe Lane,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1624.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Dedication signed: "Samuel Tailboys."</note>
+                  <note>The first leaf is blank.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Richmond, Ludovic Stuart, --  Duke of, 1574-1624 --  Poetry --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James I, 1603-1625 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152124:1" rendition="simple:additions"/>
+            <p>A NEVV LACHRYMENTALL AND FVNERALL ELEGY:</p>
+            <p>OR, A DISTILLATION OF GREAT BRITTAINE'S TEARES, SHED for the vnexpected and ſudden death of the tres-vertuous and moſt glorious Prince LODOVVICKE, Duke of <hi>Richmond</hi> and <hi>Lenox.</hi>
+            </p>
+            <p>Who departed this tranſitory life, at his Chamber in <hi>White-Hall,</hi> on Munday morning, being the 16. day of <hi>February</hi> 1624. being the ſame day appointed and inten<g ref="char:EOLhyphen"/>ded by him to haue attended and gone with our Soueraigne Lord, <hi>King</hi> IAMES; <hi>Prince</hi> CHARLES his Highneſſe, and other the Nobilitie, in Robes of Scarlet, to the Honourable Houſe of <hi>Parliament,</hi> which by reaſon of his death, was then put off till the 19. day of <hi>February</hi> following.</p>
+            <p>Printed at <hi>London</hi> by <hi>B. Alſop,</hi> dwelling at the Signe of the <hi>Dolphin</hi> in Diſtaffe Lane. 1624</p>
+            <pb facs="tcp:152124:2"/>
+            <figure>
+               <head>SIC TRANSIT GLORIA MVNDI.</head>
+               <figDesc>skeleton</figDesc>
+            </figure>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:152124:2"/>
+            <head>TO THE MOST GRATIOVS FRANCIS DVCHESSE DOVVAGER OF RICHMOND and LENOX, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Oble Princeſſe, when you conſider the ſeuerall dignities of the world, in one man ſo eminent, and neere and deare a Friend vnto you, it cannot but worke a deepe impreſ<g ref="char:EOLhyphen"/>ſion in your minde, of ſo great a loſſe befallen you, whom the world doth take notice of, and my Elegie doth ex<g ref="char:EOLhyphen"/>preſſe: but not to make you mourne further; <hi>ſatis ſufficit.</hi> So on the other ſide, conſidering the frailtie of life in Princes, as well as others, I could indeuour to comfort you with the after-ioyes of his mortalitie, to ſtay your griefe, and teares, you being wiſe, and knowing that our chiefe dependancy muſt not be in mortall men, whoſe life and meanes of life is but tranſitory, as we our ſelues, and all things that we poſſeſſe be, and therefore muſt put our truſt and confidence in the Jm<g ref="char:EOLhyphen"/>mortall God, and Chriſt his Sonne, who is the wiper away of all teares, and the true and euerlaſting Husband of his Spouſe, the Church, and ſo by con<g ref="char:EOLhyphen"/>ſequence, of you, a Vertuous and Religious Ducheſſe: who by place, perſon, and parts, deſerues the Antiquitie and preheminence of many, which may ſtirre vp ſome comfort in you. The ſympathie of his noble death and your tender heart-grieuing, moues me to condole, and to be partaker with you both in heart and Pen, for ſo high and iuſt a Steward to God and King; who as here, ſo in Heauen, Did enter into his Maſters Ioy; the want of which Ioy in vs, ſhould make vs more mourne, then his preſent death, ſince death to all is a debt which of neceſſitie muſt be paid, and neceſſitie hath no law to relieue it ſelfe by too much griefe, but wiſely to make of ſuch neceſſitie a Vertue by a holy contentation of Gods will: Let this ſuffice, to content you with pati<g ref="char:EOLhyphen"/>ence
+<pb facs="tcp:152124:3"/>as <hi>Iob,</hi> and with his Hearſe, rehearſe not your griefes, but as gracious <hi>Francis,</hi> infranchiſe your ſelfe with trueſt comforts, and let Honour be ho<g ref="char:EOLhyphen"/>nourably ſolemnized, as <hi>Rebecca</hi> did good <hi>Iſaack,</hi> of which, J doubt not of your large and liberall loue therein, ſince you may conceiue another comfort infolded within your ſorrowes, by the noble and worthy aſſembly of Parlia<g ref="char:EOLhyphen"/>ment, that attendeth their loues to his Funerall, as they intended his loue, if God had ſo appointed, to the Parliament. J haue writ this according to the promiſe made to your Grace by a worthy friend of mine, not as a profeſ<g ref="char:EOLhyphen"/>ſed Poet, but as a confeſſed ſeruant to your loue, which picke not my Conceits from the fruit of other mens labours, in Funerall Elegies, and get the ſtart of preſentation to your Highneſſe, and the worlds view: yet not a better re<g ref="char:EOLhyphen"/>preſentation of ſincere loue to the Noble Duke departed, and your liuing Graces, then I by theſe few lines hereafter ſhall expreſſe vnto you, If not in Art, yet in heart. Thus crauing your pardon and acceptance:</p>
+            <closer>
+               <signed>From him which is the true wel-wiſher of all comfort and happineſſe to your Grace: SAMVEL TAILBOYS.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:152124:3"/>
+            <head>TO THE ILLVSTRIOVS PRINCE <hi>ESME</hi> DVKE OF LENOX, &amp;c. EARLE OF MARCH and DARNLEY, &amp;c. LORD OF AVBIGNY, TERBOLTON and METHVEN, BARON OF SETTRINGTON, &amp;c.</head>
+            <head type="sub">AND, TO THE MOST PIOVS PRINCESSE KATHERINE, HIS GRATIOVS DVCHESSE, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas noble Duke and Ducheſſe, I like a Fu<g ref="char:EOLhyphen"/>nerall ſouldier, march my thoughts and Muſes towards you, as not againſt your intire &amp; friend<g ref="char:EOLhyphen"/>ly bond of amitie &amp; loue you euer bare to your deceaſed brother; and now liuing ſiſter, the Prince and Princeſſe of <hi>Richmond</hi> and <hi>Lenox,</hi> but to ioyne my defence and loue with yours againſt the Com<g ref="char:EOLhyphen"/>mon Aduerſarie of ours, which is too much lamentation and ſorrow, ſince the true March of Pietie, teacheth all: That death is an aduantage to the godly, both to the liuing and the dead; to the dead, I know you doubt not of: to the liuing, <hi>Salomon</hi> the wiſe ſaith, <hi>Better it is to be in the houſe of Mourning, then in the houſe of Feaſting,</hi> for the wiſe doe lay it to their hearts, and the God of wiſedome hath directed his honors ſo vnto you, as your religious thoughts, may March to God with your name; and I am bold in this Month of <hi>March</hi> to preſent the Springing thoughts of com<g ref="char:EOLhyphen"/>fort to you and your Noble Poſteritie, which to both your graces, and to the ſpringing hopefull Plants of your loynes. I pray and wiſh all heauenly and earthly proſperitie, to remaine to you and yours for euer.</p>
+            <closer>
+               <signed>Your Graces deuoted <hi>SAMVEL TAILBOYS.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:152124:4"/>
+            <head>To the Noble and Generous Reader.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Shall not neede to incite you, or cite to you the Coun<g ref="char:EOLhyphen"/>cell of S. <hi>Paul, To mourne with them that mourne, and reioyce with them that reioyce,</hi> though I ſhall by my Elegie giue you cauſe for both in one Obiect, a worthy Prince, and Duke: for I know you are rea<g ref="char:EOLhyphen"/>dy to Miniſter it vnto your ſelfe in the loue of him who was ſo beloued, and eſpecially now to mourne for his loſſe, whoſe worth and parts, had ſo many deſerued titles of Honour, and was ſo gracious and good a member, for the good of all <hi>Brittaine,</hi> both to Church and Common-wealth. In which reſpect, I commend my loue to your good liking, and acceptance of this after Elegy.</p>
+            <closer>
+               <signed>S. T.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:152124:4"/>
+            <head>AN ELEGIE TO THE WELL-DESERVING HONOVR OF THAT PIOVS AND Glorious Prince deceaſed, LODOVVICKE STEVVARD, Late <hi>Duke</hi> of <hi>Richmond</hi> and <hi>Lenox, Earle</hi> of <hi>Newcaſtle</hi> and <hi>Darneley,</hi> &amp;c. <hi>Lord</hi> of <hi>Torbolton</hi> and <hi>Methuen,</hi> &amp;c. <hi>Baron</hi> of <hi>Settrington,</hi> &amp;c. <hi>Knight</hi> of the Noble <hi>Oraer of the Garter, Lord high Admirall,</hi> and <hi>Great Chamberlaine</hi> of <hi>Scotland, Lord high Steward</hi> to the KINGS moſt excellent Maieſties moſt Honourable Houſhold, <hi>Gentleman</hi> of his Maieſties Bed-Chamber, and one of his Maieſties moſt Honourable Priuy Councell for <hi>England</hi> and <hi>Scotland.</hi>
+            </head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">H</seg>Ovv ſodaine was the loſſe of <hi>Noble Grace,</hi>
+               </l>
+               <l>In LOD'VVICKE <hi>high,</hi> brought lowe in a ſhort ſpace:</l>
+               <l>
+                  <note place="margin">Like French Flower,</note>One day flouriſhing like the FLOVVER DE LVCE,</l>
+               <l>Next vaniſhing, like Flower of no vſe.</l>
+               <l>
+                  <note place="margin">His Creſt a Bull ſpitting fire.</note>One day ſeemes ſtrong <hi>as Bull, his Croſt of Armes;</hi>
+               </l>
+               <l>Next day knockt downe by cruell Death his harmes?</l>
+               <l>O cruell Death! to murther ſuch a worth,</l>
+               <l>Of higheſt price with God and Man, ſet forth,</l>
+               <l>
+                  <hi>The righteous men God takes from ill to come,</hi>
+               </l>
+               <l>
+                  <hi>To poſſeſſe Ioy, though griefe may fall to ſome,</hi>
+               </l>
+               <pb facs="tcp:152124:5"/>
+               <l>
+                  <note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lowicke</hi> in <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ngliſh.</note>As is to me and all his friends a croſſe,</l>
+               <l>When I and they doe ſee ſo great a loſſe.</l>
+               <l>
+                  <hi>Great</hi> LOD-O-VVICKE his weeks through al the yeare,</l>
+               <l>In care and loue to <hi>Brittaine</hi> did appeare,</l>
+               <l>Graue, wiſe, iuſt, true, a mirrour of mankinde</l>
+               <l>In Vertues goodneſſe, which flowed in his minde,</l>
+               <l>For publike good, and for his priuate fate,</l>
+               <l>
+                  <hi>Did load each weeke with loue</hi> and lordly ſtate.</l>
+               <l>
+                  <note place="margin">
+                     <hi>
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>udouicus</hi> la<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne.</note>LVDOVICVS could ſay I play with ſtrength,</l>
+               <l>His recreations comely at Bowe length,</l>
+               <l>And ſhot his arrowes long from arrow-head,</l>
+               <l>With ſtrength, with skill, til dart of death ſtrook dead:</l>
+               <l>He like a <hi>Ionathan</hi> that vſde his skill,</l>
+               <l>
+                  <note place="margin">Compared <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o <hi>Ionathan, Dauids</hi> true friend.</note>To proſper <hi>Dauid</hi> from the wickeds will</l>
+               <l>Of <hi>Sauls</hi> abroad that ſecretly doth dart</l>
+               <l>To wrong the life of truth, in our Kings heart,</l>
+               <l>Who euer yet with Harpe of Peace hath plaid,</l>
+               <l>To pleaſe ſuch <hi>Sauls,</hi> their rigour to haue laid,</l>
+               <l>From cruell wrongs of Countrey and of blood,</l>
+               <l>
+                  <note place="margin">Palatinate.</note>So neere him wrong'd by <hi>Sauls,</hi> that is not good,</l>
+               <l>This <hi>Ionathan,</hi> for ſuch car'd not at all,</l>
+               <l>Though they were Kings as cruell as was <hi>Saul,</hi>
+               </l>
+               <l>But freely, friendly, thus his life and daies,</l>
+               <l>Spent in loue of s <hi>King, wife, and friends</hi> alwaies.</l>
+               <l>Mourne Heau'ns for one ſo high and true to King:</l>
+               <l>Mourne Earth for him whoſe praiſe on earth did ring:</l>
+               <pb facs="tcp:152124:5"/>
+               <l>Mourne Brittaines all for Peere of noble fame,</l>
+               <l>Whoſe true reſpect to you and truth did frame:</l>
+               <l>
+                  <hi>Drop Eies and Pen,</hi> &amp; mourne with them that mou<g ref="char:cmbAbbrStroke">̄</g>rne</l>
+               <l>
+                  <note place="margin">Royal bloud</note>For loſſe of <hi>Richmonds</hi> Duke ſo highly borne,</l>
+               <l>Yet borne to die, and dies to liue for euer,</l>
+               <l>So as his worth and praiſe to die will neuer.</l>
+               <l>Whoſe royall bloud to King, though borne in <hi>France,</hi>
+               </l>
+               <l>And by Kings loue in <hi>Scotland</hi> had ſubſtance,</l>
+               <l>
+                  <note place="margin">Of three lan<g ref="char:EOLhyphen"/>guages.</note>Of honours due as his deſerts brought forth,</l>
+               <l>Till <hi>Brittaines glory</hi> brought him of more worth:</l>
+               <l>All three their Language from each place he had,</l>
+               <l>Hon'ring this Land, as we of him were glad,</l>
+               <l>So comely, Courtly bred of French we finde,</l>
+               <l>Indu'd by birth by Armes and Language kinde,</l>
+               <l>And now hath left his names Integritie</l>
+               <l>Vnto a brother of the ſame ſinceritie,</l>
+               <l>
+                  <note place="margin">The new Earle <hi>March</hi> Duke of <hi>Le<g ref="char:EOLhyphen"/>nox.</hi>
+                  </note>
+                  <hi>Earle March now Duke tranſporteth ſo his name,</hi>
+               </l>
+               <l>
+                  <hi>As earth and heau'ns doe glory in their fame,</hi>
+               </l>
+               <l>Being ſo like of Nature, Grace, and parts,</l>
+               <l>Deſerues like loue and honour from all hearts,</l>
+               <l>
+                  <note place="margin">GOD.</note>The <hi>Heaun'ly Steward</hi> which commandeth Kings,</l>
+               <l>
+                  <note place="margin">
+                     <hi>Lodowicke Steward,</hi> Lord high Steward,</note>And calleth all his Stewards to reck'nings,</l>
+               <l>In life and death to him all muſt account,</l>
+               <l>For things here done what ere it doth amount.</l>
+               <l>Our <hi>Steward</hi> high whoſe life and loue was iuſt,</l>
+               <l>That high and low did faithfully him truſt,</l>
+               <pb facs="tcp:152124:6"/>
+               <l>Is now, from <hi>Stewardſhip of Name and Place,</hi>
+               </l>
+               <l>Called to God for a more higher grace,</l>
+               <l>Of honours due,<note place="margin">Princes Co<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>onet.</note> 
+                  <hi>Crown'd ſo in Angels ſight;</hi>
+               </l>
+               <l>Though Natures grace, Death ſhew'd his mortall ſpight,</l>
+               <l>So ſuddenly to ſhorten his ſweet daie,</l>
+               <l>In worldly Stage, where all our liues are Plaies,</l>
+               <l>Whoſe Sceane hath end, in better Ioyes to reſt,</l>
+               <l>My joy's for him, that he is euer bleſt.</l>
+               <l>Then <hi>Noble Ducheſſe,</hi>
+                  <note place="margin">Francis Du<g ref="char:EOLhyphen"/>cheſſe.</note> grieue not for your croſſe,</l>
+               <l>Beare't patiently, though it be heauy loſſe;</l>
+               <l>That by the tryall of your patience,</l>
+               <l>You being Gods, his loue yeelds recompence</l>
+               <l>To Faith, to Grace, by King, by Prince and Friends,</l>
+               <l>All ioynes in one, and Grace and Honour lends:</l>
+               <l>Some Natures griefe cannot well patience beare,</l>
+               <l>
+                  <hi>But Womens ornament</hi> puls off and teare,</l>
+               <l>Which ſhould not be, but for to wipe <hi>Chriſts</hi> feete,</l>
+               <l>When teares doe waſh them by Repentance meete:</l>
+               <l>Yee liquid eies mourne not for him in duſt,</l>
+               <l>His Soule's in Heauen, to joy therefore yee muſt.</l>
+               <l>So wiſely now <hi>Steward</hi> your owne griefes care,</l>
+               <l>As they with griefe breed not your mindes deſpaire.</l>
+               <l>
+                  <note place="margin">Duke, Rich-mon<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>.</note>Though <hi>Richmonds riches</hi> of this world is gone,</l>
+               <l>With him, heau'nly riches remaines alone,</l>
+               <l>With Highneſſe, Greatneſſe, and true beautie there,</l>
+               <l>Although next <hi>Chriſt,</hi> he left his beautie here.</l>
+               <pb facs="tcp:152124:6"/>
+               <l>
+                  <hi>A Princeſſe high, noble, good, and vertuous,</hi>
+               </l>
+               <l>
+                  <hi>A Ducheſſe wiſe, of comely grace, and beautious:</hi>
+               </l>
+               <l>Yet now his beautie doth with Angels ſing,</l>
+               <l>As rich in loue ſtill <hi>to his Doue and King,</hi>
+               </l>
+               <l>And ſhines aboue the Sunne in brighteſt glory,</l>
+               <l>As member fit for Gods eternall Story,</l>
+               <l>
+                  <note place="margin">Old Duke of Le-nox.</note>LENOX departed conſters <hi>Night of life,</hi>
+               </l>
+               <l>A ſodaine darkeneſſe made to King and Wife,</l>
+               <l>That ſhall ne're ſee his day of life againe,</l>
+               <l>Till they to him ſhall goe for ſuch like gaine:</l>
+               <l>
+                  <note place="margin">Earle of New-caſtle,</note>
+                  <hi>For he (as Earle) hath early got the hold</hi>
+               </l>
+               <l>
+                  <hi>Of a New-Caſtle strong, where he is bold</hi>
+               </l>
+               <l>'Gainſt ſinne, and Satan, ſickneſſe, griefe, and ſmart,</l>
+               <l>By Diuine power reſiſts them all apart:</l>
+               <l>Together bent, they cannot him withſtand,</l>
+               <l>
+                  <hi>New-Caſtles force</hi> ſo high on Mount doth ſtand,</l>
+               <l>
+                  <note place="margin">Lord of Scotland.</note>And he as Lord hath one which is aboue him,</l>
+               <l>As he was Lord, ſo many were below him.</l>
+               <l>All his Baronies and his Lordſhips place,</l>
+               <l>His titles great haue now farre greater grace;</l>
+               <l>Thoſe ſhew'd deſert, commending <hi>Lenox loue</hi>
+               </l>
+               <l>To Soueraigne Grace, whoſe merits well did proue,</l>
+               <l>And found in Scotland and in England to,</l>
+               <l>Where he ſuch loue and honour obtain'd ſo,</l>
+               <l>In number ſixe in one,<note place="margin">Had titles 12.</note> and ſixe in other,</l>
+               <l>If any Lord deſerues it, 'tis his Brother.</l>
+               <pb facs="tcp:152124:7"/>
+               <l>
+                  <note place="margin">Knight of Garter.</note>
+                  <hi>With whom for Wiſedomes loue I doe here Quarter,</hi>
+               </l>
+               <l>
+                  <hi>To gaine the George, and Englands Noble Garter</hi>
+               </l>
+               <l>To weare; with HONI SOIT QVI MAL'Y PENSE,</l>
+               <l>Since name and fame doth carry the like Senſe,</l>
+               <l>Of <hi>Steward,</hi> and <hi>Duke, Earle, Lord,</hi> and <hi>Baron,</hi>
+               </l>
+               <l>Though he ſome places had on the <hi>Maron,</hi>
+               </l>
+               <l>
+                  <hi>Of Scotlands Admirall and Chamberly'n,</hi>
+               </l>
+               <l>
+                  <note place="margin">Lord. Admirall &amp; Chamber<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ain of Scot<g ref="char:EOLhyphen"/>land.</note>Which our King IAMES did place him both therein.</l>
+               <l>And now (as Admirall) floates aboue the Sea</l>
+               <l>Of ſtormy waues, and of the biting flea,</l>
+               <l>I meane of Death, whoſe Chambers are of earth,</l>
+               <l>And bites vs here to drinke our blood and breath:</l>
+               <l>All this and more to ſpeake I might be teller</l>
+               <l>Of his true praiſe as <hi>Priuy Counſeller,</hi>
+               </l>
+               <l>Who was ſo lou'd in Country, Citie, Court,</l>
+               <l>That where he came he had a good report,</l>
+               <l>Of high and low,<note place="margin">Kings priuy Counceller <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f England <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>r Scotland.</note> all wiſh'd (his life might laſt)</l>
+               <l>To ſee him ſit in <hi>Parliament,</hi> and grac't,</l>
+               <l>For good of King, his Countrey high and ſmall,</l>
+               <l>Roab'd with Skarlet, as Nobles, ſo had all.</l>
+               <l>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he Parlia<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ent did re<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>yce him.</note>In <hi>Parliament</hi>-Houſe appointed was his place,</l>
+               <l>His time and day was come for publike grace.</l>
+               <l>The Commons they came, and thought to greet him,</l>
+               <l>The Peeres and Nobles there thought to meet him;</l>
+               <l>The Biſhops ready to offer Incenſe ſweet,</l>
+               <l>For him and all to offer Prayers meet;</l>
+               <pb facs="tcp:152124:7"/>
+               <l>But he himſelfe was turn'd the Sacrifice,</l>
+               <l>And turn'd them all to ſorrowes weeping eies,</l>
+               <l>
+                  <hi>Both King, and Prince, our Commons and our State,</hi>
+               </l>
+               <l>
+                  <hi>Did ſtay, as though they came his Hearſe to waite,</hi>
+               </l>
+               <l>Or were ſo ſummon'd here to meet his death,</l>
+               <l>That ouer-ioy'd this day and gaue vp breath,</l>
+               <l>Like <hi>Simeon,</hi>
+                  <note place="margin">Like <hi>Symeon</hi> that hoped for Englands good there<g ref="char:EOLhyphen"/>by.</note> Lord let thy ſeruant part,</l>
+               <l>Now I haue ſeene this day which joy'd my heart,</l>
+               <l>Chriſts loue to me and land, which rob'd his on back,</l>
+               <l>For Parliament in Heauen where is no lacke</l>
+               <l>Of Honour, Beautie, Riches, and true Fame,</l>
+               <l>Since he is Chriſts, and Chriſt is his by name,</l>
+               <l>Where Grace, and Names, and Honours all in one,</l>
+               <l>Agrees with Saints though we like Saints do moane,</l>
+               <l>And mourne in all degrees following Hearſe,</l>
+               <l>With Trumpets ſound and Heralds to rehearſe.</l>
+            </lg>
+            <lg>
+               <l>All which is ſaid, may be ſo from his Name,</l>
+               <l>Conſtrued true from's Latine Anagram:</l>
+            </lg>
+            <lg>
+               <head>LVDOVICVS STVARTTE. <hi>eſt,</hi> VIRTVTE DVCTO SALVS.</head>
+               <l>Such Ioyes the godly doe in death attaine,</l>
+               <l>That death's no loſſe, but a Coeleſtiall gaine;</l>
+               <l>For dying in the Lord, they dying liue,</l>
+               <l>And for their life he doth a better giue.</l>
+               <l>Here's for your comfort then, he liu'd in feare</l>
+               <l>Of God and Heau'n, and now he liueth there.</l>
+            </lg>
+            <trailer>FJNJS.</trailer>
+            <pb facs="tcp:152124:8"/>
+            <pb facs="tcp:152124:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
